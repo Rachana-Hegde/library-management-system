@@ -122,7 +122,7 @@ library-management-system/
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Rachana-Hegde/library-management-system](https://github.com/Rachana-Hegde/library-management-system).git
+git clone https://github.com/Rachana-Hegde/library-management-system.git
 cd library-management-system
 ```
 
