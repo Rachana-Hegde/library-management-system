@@ -268,6 +268,6 @@ This project demonstrates:
 
 🔗 GitHub: https://github.com/Rachana-Hegde
 
-## 🌐 Live API
+## 🌐 Live Demo
 
 https://library-management-system-ns9v.onrender.com
